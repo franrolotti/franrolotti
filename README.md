@@ -16,8 +16,8 @@ Realized (co)variances from hourly ENTSO-E day-ahead prices, MHAR-LASSO dynamics
 | Project | What it does |
 |---|---|
 | [**connectedness**](https://github.com/franrolotti/connectedness) · [PyPI](https://pypi.org/project/connectedness/) | Diebold–Yılmaz connectedness, realized (semi)covariances, MHAR-LASSO, static & rolling spillover indices |
+| [**loadcast**](https://github.com/franrolotti/loadcast) · [Live dashboard](https://franrolotti.github.io/loadcast/) | Day-ahead electricity load forecasting for Spain, Germany & France: XGBoost vs LSTM vs a from-scratch Transformer, benchmarked against the TSO, with live daily forecasts |
 | [**entsoe-data-toolkit**](https://github.com/franrolotti/entsoe-data-toolkit) | Download, cache, process and visualize ENTSO-E electricity market data |
-| [**markets-fuels-data-collector**](https://github.com/franrolotti/markets-fuels-data-collector) | Collect and normalize daily European market & fuel series |
 | [**VoxLab**](https://github.com/franrolotti/VoxLab) | Local-first AI voice lab: multi-character dialogues, voice profiles, audio style presets |
 
 ### Products
