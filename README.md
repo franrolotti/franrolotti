@@ -35,4 +35,4 @@ Realized (co)variances from hourly ENTSO-E day-ahead prices, MHAR-LASSO dynamics
 
 I'm open to freelance work, on an hourly basis or as fixed-price milestones: forecasting and time-series models, energy-market data pipelines, quantitative research, and LLM-based data extraction.
 
-[LinkedIn](https://www.linkedin.com/in/francisco-rolotti) · [franrolotti1@gmail.com](mailto:franrolotti1@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/francisco-rolotti) · [fr.rolotti@gmail.com](mailto:fr.rolotti@gmail.com)
